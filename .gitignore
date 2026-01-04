@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# IDE
+.idea/
+.vscode/
+
+# Database
+*.db
